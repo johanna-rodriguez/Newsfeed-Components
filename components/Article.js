@@ -124,7 +124,7 @@ const data = [
    const paragraph2 = document.createElement('p');
    paragraph1.appendChild(paragraph2);
    paragraph2.textContent = article.secondParagraph;
-   console.log(paragraph2);
+  
 
    const paragraph3 = document.createElement('p');
    paragraph1.appendChild(paragraph3);
